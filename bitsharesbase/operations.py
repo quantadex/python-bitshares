@@ -27,7 +27,7 @@ from .objects import (
     CallOrderExtension
 )
 
-default_prefix = "BTS"
+default_prefix = "QA"
 class_idmap = {}
 class_namemap = {}
 

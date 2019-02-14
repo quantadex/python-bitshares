@@ -15,5 +15,5 @@ class Signed_Transaction(GrapheneSigned_Transaction):
         :param Array operations:  array of operations
     """
     known_chains = known_chains
-    default_prefix = "BTS"
+    default_prefix = "QA"
     operation_klass = Operation

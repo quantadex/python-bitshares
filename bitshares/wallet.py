@@ -70,7 +70,7 @@ class Wallet():
         else:
             # If not connected, load prefix from config
             prefix = self.blockchain.config["prefix"]
-        return prefix or "BTS"   # default prefix is BTS
+        return prefix or "QA"   # default prefix is BTS
 
     @property
     def rpc(self):

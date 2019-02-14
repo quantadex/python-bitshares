@@ -8,7 +8,7 @@ known_chains = {
         "core_symbol": "CORE",
         "prefix": "GPH"},
     "TEST": {
-        "chain_id": "39f5e2ede1f8bc1a3a54a7914414e3779e33193f1f5693510e73cb7a87617447",
-        "core_symbol": "TEST",
-        "prefix": "TEST"},
+        "chain_id": "bb2aeb9eebaaa29d79ed81699ee49a912c19c59b9350f8f8d3d81b12fa178495",
+        "core_symbol": "QDEX",
+        "prefix": "QA"},
 }
